@@ -1,2 +1,2 @@
 # First_Website
-My first website
+My first website with adaptive layout
